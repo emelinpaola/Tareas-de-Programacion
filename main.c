@@ -7,17 +7,18 @@ int main()
     return 0;
 }
 #include <stdio.h>
-/* Medidas.
-El programa, al recibir como datos la longitud y el peso de un objeto
-➥expresados en pies y libras, calcula los datos de este objeto pero en
-➥metros y kilogramos, respectivamente.
-PIE, LIB, MET y KIL: variables de tipo real. */
+#include <math.h>
+/* Volumen y área del cilindro
+El programa, al recibir como datos el radio y la altura de un cilindro,
+➥calcula su área y su volumen.
+RAD, ALT, VOL y ARE: variables de tipo real. */
 void main(void)
 {
-float PIE, LIB, MET, KIL;
-printf(“Ingrese los datos del objeto: “);
-scanf(“%f %f”, &PIE, &LIB);
-MET = PIE * 0.09290;
-KIL = LIB * 0.45359;
-printf(“\nDatos del objeto \nLongitud: %5.2f \t Peso: %5.2f”, MET, KIL);
+    float RAD, ALT, VOL, ARE;
+printf(“Ingrese el radio y la altura del cilindro: ”);
+scanf(“%f %f”, &RAD, &ALT);
+/* M_PI es una constante definida en math.h que contiene el valor de PI */
+VOL = M_PI * pow (RAD, 2) * ALT;
+ARE = 2 * M_PI * RAD * ALT;
+printf(“\nEl volumen es: %6.2f \t El área es: %6.2f”, VOL, ARE);
 }
