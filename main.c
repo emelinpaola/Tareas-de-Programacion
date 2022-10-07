@@ -7,23 +7,24 @@ int main()
     return 0;
 }
 #include <stdio.h>
-/* Suma pagos.
-El programa, al recibir como datos un conjunto de pagos realizados en el último
-➥mes, obtiene la suma de los mismos.
-PAG y SPA: variables de tipo real. */
+#include <math.h>
+/* Suma cuadrados.
+El programa, al recibir como datos un grupo de enteros positivos, obtiene el
+➥cuadrado de los mismos y la suma correspondiente a dichos cuadrados. */
 void main(void)
 {
-float PAG, SPA;
-SPA = 0;
-printf(“Ingrese el primer pago:\t”);
-scanf(“%f”, &PAG);
-while (PAG)
-/* Observa que la condición es verdadera mientras el pago es diferente de cero. */
+int NUM;
+long CUA, SUC = 0;
+printf(“\nIngrese un número entero -0 para terminar-:\t”);
+scanf(“%d”, &NUM);
+while (NUM)
+/* Observa que la condición es verdadera mientras el entero es diferente de cero. */
 {
-SPA = SPA + PAG;
-printf(“Ingrese el siguiente pago:\t “);
-scanf(“%f”, &PAG);
-/* Observa que la proposición que modifica la condición es una lectura. */
+CUA = pow (NUM, 2);
+printf(“%d al cubo es %ld”, NUM, CUA);
+SUC = SUC + CUA;
+printf(“\nIngrese un número entero -0 para terminar-:\t”);
+scanf(“%d”, &NUM);
 }
-printf(“\nEl total de pagos del mes es: %.2f”, SPA);
+printf(“\nLa suma de los cuadrados es %ld”, SUC);
 }
