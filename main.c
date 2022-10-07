@@ -6,19 +6,39 @@ int main()
     printf("Hello world!\n");
     return 0;
 }
-#include <stdio.h>
-/* Aplicaci�n de operadores. */
+El programa, al recibir como datos la matrícula, la carrera, el semestre
+➥y el promedio de un alumno de una universidad privada, determina si
+➥éste puede ser asistente de su carrera.
+MAT, CAR y SEM: variables de tipo entero.
+PRO: variable de tipo real. */
 void main(void)
 {
-int i, j, k = 2, l = 7;
-i = 9 + 3 * 2;
-j = 8 % 6 + 4 * 2;
-i %= j;
-printf(�\nEl valor de i es: %d�, i);
-++l;
---k -= l++ * 2;
-printf(�\nEl valor de k es: %d�, k);
-i = 5.5 - 3 * 2 % 4;
-j = (i * 2 - (k = 3, --k));
-printf(�\nEl valor de j es: %d�, j);
+int MAT, CAR, SEM;
+float PRO;
+printf(“Ingrese matrícula: “);
+scanf(“%d”, &MAT);
+printf(“Ingrese carrera (1-Industrial 2-Telemática 3-Computación
+4-Mecánica) : “);
+scanf(“%d”, &CAR);
+printf(“Ingrese semestre: “);
+scanf(“%d”, &SEM);
+printf(“Ingrese promedio: “);
+scanf(“%f”, &PRO);
+switch(CAR)
+{
+case 1: if (SEM >= 6 && PRO >= 8.5)
+printf(“\n%d %d %5.2f”, MAT, CAR, PRO);
+break;
+case 2: if (SEM >= 5 && PRO >= 9.0)
+printf(“\n%d %d %5.2f”, MAT, CAR, PRO);
+break;
+case 3: if (SEM >= 6 && PRO >= 8.8)
+printf(“\n%d %d %5.2f”, MAT, CAR, PRO);
+break;
+case 4: if (SEM >= 7 && PRO >= 9.0)
+printf(“\n%d %d %5.2f”, MAT, CAR, PRO);
+break;
+default: printf(“\n Error en la carrera”);
+break;
+}
 }
