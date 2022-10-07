@@ -7,15 +7,18 @@ int main()
     return 0;
 }
 #include <stdio.h>
-/* Superficie del triángulo.
-El programa, al recibir como datos la base y la altura de un triángulo,
-➥calcula su superficie.
-BAS, ALT y SUP: variables de tipo real. */
-void main (void)
+/* Aplicaci�n de operadores. */
+void main(void)
 {
- float BAS, ALT, SUP;
-printf(“Ingrese la base y la altura del triángulo: “);
-scanf(“%f %f”, &BAS, &ALT);
-SUP = BAS * ALT / 2;
-printf(“\nLa superficie del triángulo es: %5.2f”, SUP);
+int i= 5, j = 7, k = 3, m1;
+float x = 2.5, z = 1.8, t;
+m1 = ((j % k) / 2) + 1;
+m1 += i;
+m1 %= --i;
+printf(�\nEl valor de m1 es: %d�, m1);
+t = ((float) (j % k) / 2);
+t++;
+x *= ++z;
+t -= (x += ++i);
+printf(�\nEl valor de t es: %.2f�, t);
 }
