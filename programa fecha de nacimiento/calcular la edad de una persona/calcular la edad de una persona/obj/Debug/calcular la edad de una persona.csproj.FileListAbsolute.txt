@@ -1,0 +1,6 @@
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\calcular la edad de una persona\calcular la edad de una persona\obj\Debug\calcular la edad de una persona.csproj.AssemblyReference.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\calcular la edad de una persona\calcular la edad de una persona\obj\Debug\calcular la edad de una persona.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\calcular la edad de una persona\calcular la edad de una persona\obj\Debug\Ejercicio.program.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\calcular la edad de una persona\calcular la edad de una persona\obj\Debug\calcular_la_edad_de_una_persona.Properties.Resources.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\calcular la edad de una persona\calcular la edad de una persona\obj\Debug\calcular la edad de una persona.csproj.GenerateResource.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\calcular la edad de una persona\calcular la edad de una persona\obj\Debug\calcular la edad de una persona.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\bin\Debug\programa fecha de nacimiento.exe.config
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\bin\Debug\programa fecha de nacimiento.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\bin\Debug\programa fecha de nacimiento.pdb
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa fecha de nacimiento.csproj.AssemblyReference.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa fecha de nacimiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa_fecha_de_nacimiento.Form1.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa_fecha_de_nacimiento.Properties.Resources.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa fecha de nacimiento.csproj.GenerateResource.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa fecha de nacimiento.csproj.CoreCompileInputs.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa fecha de nacimiento.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\calculadora 2\programa fecha de nacimiento\programa fecha de nacimiento\obj\Debug\programa fecha de nacimiento.pdb
