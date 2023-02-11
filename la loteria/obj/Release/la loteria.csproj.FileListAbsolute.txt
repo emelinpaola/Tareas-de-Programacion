@@ -1,0 +1,11 @@
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la loteria.csproj.AssemblyReference.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la loteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la_loteria.Form1.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la_loteria.Properties.Resources.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la loteria.csproj.GenerateResource.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la loteria.csproj.CoreCompileInputs.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\bin\Release\la loteria.exe.config
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\bin\Release\la loteria.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\bin\Release\la loteria.pdb
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la loteria.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\la loteria\obj\Release\la loteria.pdb
