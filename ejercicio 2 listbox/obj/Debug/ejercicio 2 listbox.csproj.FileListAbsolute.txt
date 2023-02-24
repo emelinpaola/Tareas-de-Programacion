@@ -1,0 +1,11 @@
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\bin\Debug\ejercicio 2 listbox.exe.config
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\bin\Debug\ejercicio 2 listbox.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\bin\Debug\ejercicio 2 listbox.pdb
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio 2 listbox.csproj.AssemblyReference.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio 2 listbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio_2_listbox.Form1.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio_2_listbox.Properties.Resources.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio 2 listbox.csproj.GenerateResource.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio 2 listbox.csproj.CoreCompileInputs.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio 2 listbox.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\la loteria\ejercicio 2 listbox\ejercicio 2 listbox\obj\Debug\ejercicio 2 listbox.pdb
