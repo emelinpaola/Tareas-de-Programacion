@@ -1,0 +1,11 @@
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\bin\Debug\combobox proyect.exe.config
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\bin\Debug\combobox proyect.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\bin\Debug\combobox proyect.pdb
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox proyect.csproj.AssemblyReference.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox proyect.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox_proyect.Form1.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox_proyect.Properties.Resources.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox proyect.csproj.GenerateResource.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox proyect.csproj.CoreCompileInputs.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox proyect.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\combobox proyect\combobox proyect\obj\Debug\combobox proyect.pdb
