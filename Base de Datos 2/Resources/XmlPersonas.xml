@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ListaDeCompradores>
+	<compradores>
+		<comprador>
+			<atributos>
+				<nombres nombre = "harold"></nombres>
+				<apellidos apellido = "mateo"></apellidos>
+				<telefonos telefono = "809523"></telefonos>
+				<cedulas cedula = "402297"></cedulas>
+				<edades edad = "20"></edades>
+			</atributos>
+		</comprador>
+	</compradores>
+</ListaDeCompradores>

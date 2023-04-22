@@ -1,0 +1,36 @@
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\bin\Debug\LiteDBProject.exe.config
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\bin\Debug\LiteDBProject.exe
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\bin\Debug\LiteDBProject.pdb
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\bin\Debug\LiteDB.dll
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\bin\Debug\LiteDB.xml
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.csproj.AssemblyReference.cache
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.Form1.resources
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.Properties.Resources.resources
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.csproj.GenerateResource.cache
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.csproj.CoreCompileInputs.cache
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.csproj.CopyComplete
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.exe
+C:\Users\epsi.ESTUDIANTE\Documents\FuryProyects\LiteDBProject\obj\Debug\LiteDBProject.pdb
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.csproj.AssemblyReference.cache
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.Form1.resources
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.Properties.Resources.resources
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.csproj.GenerateResource.cache
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.csproj.CoreCompileInputs.cache
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.exe
+C:\Users\Ender\Documents\Nuevos Proyectos\Programacion2\Calculadora\LiteDBProject - Copy\obj\Debug\LiteDBProject.pdb
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\bin\Debug\LiteDBProject.exe.config
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\bin\Debug\LiteDBProject.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\bin\Debug\LiteDBProject.pdb
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\bin\Debug\LiteDB.dll
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\bin\Debug\LiteDB.xml
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.csproj.AssemblyReference.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.Form1.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.Properties.Resources.resources
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.csproj.GenerateResource.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.csproj.CoreCompileInputs.cache
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.csproj.CopyComplete
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.exe
+C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\obj\Debug\LiteDBProject.pdb
