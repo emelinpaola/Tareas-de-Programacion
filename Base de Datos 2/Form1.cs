@@ -33,53 +33,44 @@ namespace LiteDBProject
         public Form1()
         {
             InitializeComponent();
-            string path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\Resources\XmlPersonas.xml");
-            UsingXmlReader(path);
         }
 
 
-        private static void UsingXmlReader(string path)
-        {
-            XmlReader xmlReader = XmlReader.Create(path);
-
-            while (xmlReader.Read())
-            {
-                if ((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "nombres"))
-                {
-                    if (xmlReader.HasAttributes)
-                    {
-                        using (var db = new LiteDB.LiteDatabase(@"C:\Temp\MyData.db"))
-                        {
-                            
-                        }
-                    }
-                }
-                else if ((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "edition"))
-                {
-                    if (xmlReader.HasAttributes)
-                    {
-                        Console.WriteLine(xmlReader.GetAttribute("language"));
-                    }
-                }
-            }
-        }
+        
 
         public int diferencia;
-        private object db;
+ 
 
         private void btnbuscar_Click(object sender, EventArgs e)
         {
-            using (var db = new LiteDB.LiteDatabase(@"C:\Temp\MyData.db")) ;
+            XmlDocument xmlDock = new XmlDocument();
+            xmlDock.Load(@"C:\Users\jason joel\Documents\Visual Studio 2022\Base de Datos 2\Resources\XmlPersonas.xml");
+            string tagname = "comprador";
+            XmlNodeList nodes = xmlDock.GetElementsByTagName(tagname);
+            int it = 0;
+            foreach (XmlNode node in nodes)
             {
-                // Get a collection (or create, if doesn't exist)
-                var col = db.GetCollection<Customer>("customers");
 
-                var results = col.Query()
-                   .Where(x => x.Name.Contains(txtnombre.Text))
-                   .OrderBy(x => x.Name)
-                   .Select(x => new { x.Name })
-                   .Limit(10)
-                   .ToList();
+                if (node.InnerText.Contains(txtbuscar.Text))
+                {
+                    string nombres = node.SelectSingleNode("nombres").InnerText;
+                    string apellidos = node.SelectSingleNode("apellidos").InnerText;
+                    string telefonos = node.SelectSingleNode("telefonos").InnerText;
+                    string cedulas = node.SelectSingleNode("cedulas").InnerText;
+                    string edades = node.SelectSingleNode("edades").InnerText;
+                    dtgvCustomers.Rows.Add(nombres, apellidos, telefonos, cedulas, edades);
+                    it++;
+                }
+                
+            }
+
+            if (it == 0)
+            {
+                MessageBox.Show("Informacion no Encontrada");
+            } else { MessageBox.Show("Informacion Encontrada"); }
+            if (txtbuscar.Text.Length == 0)
+            {
+                MessageBox.Show("Inserte Informacion", MessageBoxIcon.Error.ToString());
             }
         }
 

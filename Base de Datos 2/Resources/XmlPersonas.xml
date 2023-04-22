@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<ListaDeCompradores>
-	<compradores>
-		<comprador>
-			<atributos>
-				<nombres nombre = "harold"></nombres>
-				<apellidos apellido = "mateo"></apellidos>
-				<telefonos telefono = "809523"></telefonos>
-				<cedulas cedula = "402297"></cedulas>
-				<edades edad = "20"></edades>
-			</atributos>
-		</comprador>
-	</compradores>
-</ListaDeCompradores>
+<compradores>
+	<comprador>
+		<nombres>emelin</nombres>
+		<apellidos>peguero</apellidos>
+		<telefonos>809523</telefonos>
+		<cedulas>402297</cedulas>
+		<edades>20</edades>
+	</comprador>
+	<comprador>
+		<nombres>derick</nombres>
+		<apellidos>thevene</apellidos>
+		<telefonos>84945413</telefonos>
+		<cedulas>403564654</cedulas>
+		<edades>22</edades>
+	</comprador>
+	<comprador>
+		<nombres>dario</nombres>
+		<apellidos>martinez</apellidos>
+		<telefonos>8292154102</telefonos>
+		<cedulas>403541024</cedulas>
+		<edades>35</edades>
+	</comprador>
+</compradores>

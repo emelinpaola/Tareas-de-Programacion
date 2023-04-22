@@ -48,6 +48,8 @@
             this.dtgCedula = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dtgEdad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnbuscardb = new System.Windows.Forms.Button();
+            this.txtbuscar = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvCustomers)).BeginInit();
             this.SuspendLayout();
             // 
@@ -134,7 +136,7 @@
             // dtpedad
             // 
             this.dtpedad.CalendarMonthBackground = System.Drawing.SystemColors.GrayText;
-            this.dtpedad.Location = new System.Drawing.Point(408, 104);
+            this.dtpedad.Location = new System.Drawing.Point(396, 52);
             this.dtpedad.Name = "dtpedad";
             this.dtpedad.Size = new System.Drawing.Size(183, 20);
             this.dtpedad.TabIndex = 9;
@@ -142,7 +144,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(423, 78);
+            this.label5.Location = new System.Drawing.Point(444, 9);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(93, 13);
             this.label5.TabIndex = 10;
@@ -223,12 +225,31 @@
             this.btnbuscardb.UseVisualStyleBackColor = false;
             this.btnbuscardb.Click += new System.EventHandler(this.btnbuscardb_Click);
             // 
+            // txtbuscar
+            // 
+            this.txtbuscar.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.txtbuscar.Location = new System.Drawing.Point(447, 133);
+            this.txtbuscar.Name = "txtbuscar";
+            this.txtbuscar.Size = new System.Drawing.Size(100, 20);
+            this.txtbuscar.TabIndex = 16;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(423, 104);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(80, 13);
+            this.label6.TabIndex = 17;
+            this.label6.Text = "Buscar en XML";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(591, 552);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtbuscar);
             this.Controls.Add(this.btnbuscardb);
             this.Controls.Add(this.dtgvCustomers);
             this.Controls.Add(this.btnbuscar);
@@ -275,6 +296,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dtgCedula;
         private System.Windows.Forms.DataGridViewTextBoxColumn dtgEdad;
         private System.Windows.Forms.Button btnbuscardb;
+        private System.Windows.Forms.TextBox txtbuscar;
+        private System.Windows.Forms.Label label6;
     }
 }
 
